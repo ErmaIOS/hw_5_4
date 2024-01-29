@@ -2,7 +2,15 @@
 //  Model.swift
 //  hw_5_4
 //
-//  Created by Erma on 29/1/24.
+//  Created by Erma on 28/1/24.
 //
 
-import Foundation
+import UIKit
+
+struct Friends{
+    var avaImage: String
+    var postText: String
+    var postTextTime: String
+    var postImage: String
+    var kebabImage: String
+}

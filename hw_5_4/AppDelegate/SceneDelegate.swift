@@ -20,7 +20,7 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
         
         let nav1 = UINavigationController(rootViewController: ViewController())
         
-        window.rootViewController = nav1 // синяя стрелка
+        window.rootViewController = nav1 
         
         self.window = window
         
